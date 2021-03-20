@@ -1,5 +1,3 @@
-#TT915 Readme
+#Web application projects
 
-TT915: Programação Web
-Professor: Ulisses
-2021/1
+TT915: Programação Web; Professor: Ulisses; 2021/1
